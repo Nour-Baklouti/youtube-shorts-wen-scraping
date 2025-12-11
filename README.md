@@ -23,8 +23,8 @@ The tool automatically extracts a set of metadata :
 
 * likes : Total number of likes
 
-comments_count : Number of comments posted
+* comments_count : Number of comments posted
 
-thumbnail : Direct link to the video’s thumbnail
+* thumbnail : Direct link to the video’s thumbnail
 
-formatted_date – A clean, human-friendly publication date
+* formatted_date – A clean, human-friendly publication date
